@@ -1,8 +1,9 @@
 # Project under development
 
+Co-authored-by: Justin-TheGreat https://github.com/Justin-TheGreat/Yolov5_DeepSort_Pytorch_SpeedEstimate
+
 Co-authored-by: allen-techguy <willie820206@gmail.com>
 
-Co-authored-by: Joy-Wu <koy78451234@gmail.com>
 
 
 
