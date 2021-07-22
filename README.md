@@ -4,7 +4,7 @@
 
 Co-authored-by: allen-techguy <https://github.com/Allen-Hsiao>
 
-Co-authored-by: Joy-Wu <https://github.com/Joy-Wu1>
+Co-authored-by: Justin-TheGreat <https://github.com/Justin-TheGreat>
 
 
 
@@ -44,7 +44,7 @@ from google.colab import files
 uploaded = files.upload()
 ```
 ## Upload video and weight to Google Drive and then copy it to the directory
-You can download my pre-trained weight [here](https://drive.google.com/file/d/1cZ2f-RndPrudOTx36ELh9burXoTwBadN/view?usp=sharing).
+You can download our pre-trained weight [here](https://drive.google.com/file/d/1s5sk_bnLpvAbBuREfKyoQ-T-ltA4g2um/view?usp=sharing).
 
 ```bash
 from google.colab import drive
