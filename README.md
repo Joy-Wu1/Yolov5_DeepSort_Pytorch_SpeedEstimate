@@ -51,7 +51,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 ```bash
-%cp '/content/drive/MyDrive/XXXXXXXXXXXX' /content/Yolov5_DeepSort_Pytorch_SpeedEstimate # fill the "X" with the directory of the weight
+%cp '/content/drive/Drive/XXXXXXXXXXXX' /content/Yolov5_DeepSort_Pytorch_SpeedEstimate # fill the "X" with the directory of the weight
 ```
 ```bash
 %cp '/content/drive/MyDrive/XXXXXXXXXXXX' /content/Yolov5_DeepSort_Pytorch_SpeedEstimate # fill the "X" with the directory of the video
